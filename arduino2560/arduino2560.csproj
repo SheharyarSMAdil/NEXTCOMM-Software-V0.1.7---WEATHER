@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F212AA4A-3DCE-42C6-8258-41176A200DD1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>arduino2560</RootNamespace>
+    <AssemblyName>arduino2560</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>ftp://enggenv.com/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://enggenv.com/update/</UpdateUrl>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>3.0.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>SecurityRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C918A505489212756186E0E9539BCB3A34E3CCCB</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>arduino2560_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>arduino2560.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3, Version=1.5.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.3.6.0\lib\net45\ExcelDataReader.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.DataSet.3.6.0\lib\net35\ExcelDataReader.DataSet.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="Zeroit.Framework.LollipopControls, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a0cee1bfa120b953, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Zeroit.Framework.LollipopControls.dll</HintPath>
+    </Reference>
+    <Reference Include="Zeroit.Framework.Progress">
+      <HintPath>..\..\..\sa_hmi\packages\Zeroit.Framework.Progress.1.0.0\lib\Zeroit.Framework.Progress.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Analysis.Designer.cs">
+      <DependentUpon>Analysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="APN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="APN.Designer.cs">
+      <DependentUpon>APN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackUpData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackUpData.Designer.cs">
+      <DependentUpon>BackUpData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BinnedData.cs" />
+    <Compile Include="Bunifu_classes.cs" />
+    <Compile Include="callObjects.cs" />
+    <Compile Include="ChartValues.cs" />
+    <Compile Include="Connect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Connect.Designer.cs">
+      <DependentUpon>Connect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hour_Min.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Hour_Min.Designer.cs">
+      <DependentUpon>Hour_Min.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MB_message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MB_message.Designer.cs">
+      <DependentUpon>MB_message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OpenRoseData.cs" />
+    <Compile Include="OpenRoseGraph.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Progressbar1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Progressbar1.Designer.cs">
+      <DependentUpon>Progressbar1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Scan.Designer.cs">
+      <DependentUpon>Scan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SerialDataReceivedEventHandler.cs" />
+    <Compile Include="SerialPortCommunicator.cs" />
+    <Compile Include="Setup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setup.Designer.cs">
+      <DependentUpon>Setup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemInfo.Designer.cs">
+      <DependentUpon>SystemInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TimeControl.Designer.cs">
+      <DependentUpon>TimeControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UtilVersion.cs" />
+    <Compile Include="wait_window.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wait_window.Designer.cs">
+      <DependentUpon>wait_window.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Worker.cs" />
+    <EmbeddedResource Include="Analysis.resx">
+      <DependentUpon>Analysis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="APN.resx">
+      <DependentUpon>APN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackUpData.resx">
+      <DependentUpon>BackUpData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Connect.resx">
+      <DependentUpon>Connect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hour_Min.resx">
+      <DependentUpon>Hour_Min.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MB_message.resx">
+      <DependentUpon>MB_message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Progressbar1.resx">
+      <DependentUpon>Progressbar1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Scan.resx">
+      <DependentUpon>Scan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup.resx">
+      <DependentUpon>Setup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemInfo.resx">
+      <DependentUpon>SystemInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeControl.resx">
+      <DependentUpon>TimeControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wait_window.resx">
+      <DependentUpon>wait_window.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="arduino2560_TemporaryKey.pfx" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Connected1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Disconnected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_cast_connected_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_cast_connected_white_18pt_2x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NC_SplashScreen\NC_SplashScreen.csproj">
+      <Project>{711f4909-4df2-42d7-9a5b-de68c3994d34}</Project>
+      <Name>NC_SplashScreen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading7_pink.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect_white2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading-img.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Circuit-Graphic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_comm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ReleaseNotes.css" />
+    <None Include="Resources\nextsense_small_32px_white.png" />
+    <None Include="Resources\NEW_NEXTSENSE_white.png" />
+    <None Include="Resources\nextsense_small_32px.png" />
+    <None Include="Resources\sm_5ac5b14312cea.png" />
+    <None Include="Resources\sidepanel.png" />
+    <None Include="Resources\sidepanel.jpg" />
+    <None Include="Resources\sim_card_1052654.png" />
+    <None Include="Resources\loading-8.png" />
+    <None Include="Resources\loading-7.png" />
+    <None Include="Resources\loading-6.png" />
+    <None Include="Resources\loading-5.png" />
+    <None Include="Resources\loading-4.png" />
+    <None Include="Resources\loading-3.png" />
+    <None Include="Resources\loading-2.png" />
+    <None Include="Resources\loading-1.png" />
+    <None Include="Resources\spinner_2.png" />
+    <None Include="Resources\sp_6.png" />
+    <None Include="Resources\sp_5.png" />
+    <None Include="Resources\sp_4.png" />
+    <None Include="Resources\sp_3.png" />
+    <None Include="Resources\sp_2.png" />
+    <None Include="Resources\sp_1.png" />
+    <None Include="Resources\data_card5.5.png" />
+    <None Include="Resources\data_card5.png" />
+    <None Include="Resources\data_card41.png" />
+    <None Include="Resources\data_card4.png" />
+    <None Include="Resources\data_card3.png" />
+    <None Include="Resources\data_card2.png" />
+    <None Include="Resources\CORECT_animation_126.gif" />
+    <None Include="Resources\WRONG_animation_126.gif" />
+    <None Include="Resources\ic_show_chart_white_48dp.png" />
+    <None Include="Resources\ic_insert_chart_white_2x.png" />
+    <None Include="Resources\next_comm1.png" />
+    <None Include="Resources\splash_NC7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

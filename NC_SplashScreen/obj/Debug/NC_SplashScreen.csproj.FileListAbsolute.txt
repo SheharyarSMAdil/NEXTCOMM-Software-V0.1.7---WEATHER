@@ -1,0 +1,253 @@
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe.config
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\bin\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\bin\Debug\FluentWPF.dll
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\obj\Debug\NC_SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\obj\Debug\MainWindow.baml
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\obj\Debug\App.baml
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\obj\Debug\MainWindow.g.cs
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\obj\Debug\App.g.cs
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\obj\Debug\NC_SplashScreen_MarkupCompile.cache
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\obj\Debug\NC_SplashScreen.g.resources
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\obj\Debug\NC_SplashScreen.Properties.Resources.resources
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\obj\Debug\NC_SplashScreen.csproj.GenerateResource.Cache
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\obj\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar S M Adil\documents\visual studio 2012\Projects\arduino2560\NC_SplashScreen\obj\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe.config
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\bin\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\bin\Debug\FluentWPF.dll
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\obj\Debug\MainWindow.baml
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\obj\Debug\App.baml
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\obj\Debug\MainWindow.g.cs
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\obj\Debug\App.g.cs
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\obj\Debug\NC_SplashScreen_MarkupCompile.cache
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\obj\Debug\NC_SplashScreen.g.resources
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\obj\Debug\NC_SplashScreen.Properties.Resources.resources
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\obj\Debug\NC_SplashScreen.csproj.GenerateResource.Cache
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\obj\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\obj\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\obj\Debug\NC_SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.3\NC_SplashScreen\obj\Debug\NC_SplashScreen_Content.g.cs
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe.config
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\bin\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\bin\Debug\FluentWPF.dll
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\obj\Debug\MainWindow.baml
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\obj\Debug\App.baml
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\obj\Debug\MainWindow.g.cs
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\obj\Debug\App.g.cs
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen_Content.g.cs
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen_MarkupCompile.cache
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.g.resources
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.Properties.Resources.resources
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.csproj.GenerateResource.Cache
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\New Piezometer Software and arduino\arduino2560(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe.config
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\FluentWPF.dll
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\MainWindow.baml
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\App.baml
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\MainWindow.g.cs
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\App.g.cs
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen_Content.g.cs
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen_MarkupCompile.cache
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.g.resources
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.Properties.Resources.resources
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.csproj.GenerateResource.Cache
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar S M Adil\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe.config
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\FluentWPF.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\MainWindow.baml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\App.baml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\MainWindow.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\App.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen_Content.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen_MarkupCompile.cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.g.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.Properties.Resources.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.csproj.GenerateResource.Cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\obj\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\ExcelDataReader.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\ExcelDataReader.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\ExcelDataReader.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.4\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe.config
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\bin\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\bin\Debug\ExcelDataReader.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\bin\Debug\FluentWPF.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\bin\Debug\ExcelDataReader.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\bin\Debug\ExcelDataReader.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\obj\Debug\MainWindow.baml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\obj\Debug\App.baml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\obj\Debug\MainWindow.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\obj\Debug\App.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen_Content.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen_MarkupCompile.cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen.g.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen.Properties.Resources.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen.csproj.GenerateResource.Cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\bin\Debug\Zeroit.Framework.LollipopControls.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\bin\Debug\MaterialSkin.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\Piezometer\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe.config
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\bin\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\bin\Debug\ExcelDataReader.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\bin\Debug\FluentWPF.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\bin\Debug\MaterialSkin.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\bin\Debug\Zeroit.Framework.LollipopControls.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\bin\Debug\ExcelDataReader.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\bin\Debug\ExcelDataReader.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\obj\Debug\MainWindow.baml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\obj\Debug\App.baml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\obj\Debug\MainWindow.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\obj\Debug\App.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen_Content.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen_MarkupCompile.cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen.g.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen.Properties.Resources.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen.csproj.GenerateResource.Cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.5\NC_SplashScreen\obj\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe.config
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\bin\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\bin\Debug\ExcelDataReader.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\bin\Debug\FluentWPF.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\bin\Debug\MaterialSkin.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\bin\Debug\Zeroit.Framework.LollipopControls.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\bin\Debug\ExcelDataReader.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\bin\Debug\ExcelDataReader.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\obj\Debug\NC_SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\obj\Debug\MainWindow.baml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\obj\Debug\App.baml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\obj\Debug\MainWindow.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\obj\Debug\App.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\obj\Debug\NC_SplashScreen_Content.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\obj\Debug\NC_SplashScreen_MarkupCompile.cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\obj\Debug\NC_SplashScreen.g.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\obj\Debug\NC_SplashScreen.Properties.Resources.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\obj\Debug\NC_SplashScreen.csproj.GenerateResource.Cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\obj\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\NC_SplashScreen\obj\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe.config
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\ExcelDataReader.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\FluentWPF.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\MaterialSkin.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\Zeroit.Framework.LollipopControls.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\ExcelDataReader.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\ExcelDataReader.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\MainWindow.baml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\App.baml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\MainWindow.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\App.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen_Content.g.cs
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen_MarkupCompile.cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen.g.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen.Properties.Resources.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen.csproj.GenerateResource.Cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe.config
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\NC_SplashScreen.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\ExcelDataReader.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\FluentWPF.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\MaterialSkin.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\Zeroit.Framework.LollipopControls.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\ExcelDataReader.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\ExcelDataReader.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen.csprojResolveAssemblyReference.cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\MainWindow.baml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\App.baml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\MainWindow.g.cs
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\App.g.cs
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen_Content.g.cs
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen_MarkupCompile.cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen.g.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen.Properties.Resources.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen.csproj.GenerateResource.Cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\NC_SplashScreen\obj\Debug\NC_SplashScreen.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe.config
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\bin\Debug\NC_SplashScreen.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\bin\Debug\ExcelDataReader.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\bin\Debug\FluentWPF.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\bin\Debug\MaterialSkin.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\bin\Debug\Zeroit.Framework.LollipopControls.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\bin\Debug\ExcelDataReader.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\bin\Debug\ExcelDataReader.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\obj\Debug\MainWindow.baml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\obj\Debug\App.baml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\obj\Debug\MainWindow.g.cs
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\obj\Debug\App.g.cs
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\obj\Debug\NC_SplashScreen_Content.g.cs
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\obj\Debug\NC_SplashScreen_MarkupCompile.cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\obj\Debug\NC_SplashScreen.g.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\obj\Debug\NC_SplashScreen.Properties.Resources.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\obj\Debug\NC_SplashScreen.csproj.GenerateResource.Cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\obj\Debug\NC_SplashScreen.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\obj\Debug\NC_SplashScreen.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\NC_SplashScreen\obj\Debug\NC_SplashScreen.csprojResolveAssemblyReference.cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe.config
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\bin\Debug\NC_SplashScreen.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\bin\Debug\NC_SplashScreen.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\bin\Debug\ExcelDataReader.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\bin\Debug\FluentWPF.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\bin\Debug\MaterialSkin.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\bin\Debug\Zeroit.Framework.LollipopControls.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\bin\Debug\ExcelDataReader.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\bin\Debug\ExcelDataReader.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\bin\Debug\ExcelDataReader.DataSet.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\obj\Debug\NC_SplashScreen.csprojResolveAssemblyReference.cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\obj\Debug\MainWindow.baml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\obj\Debug\App.baml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\obj\Debug\MainWindow.g.cs
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\obj\Debug\App.g.cs
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\obj\Debug\NC_SplashScreen_Content.g.cs
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\obj\Debug\NC_SplashScreen_MarkupCompile.cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\obj\Debug\NC_SplashScreen.g.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\obj\Debug\NC_SplashScreen.Properties.Resources.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\obj\Debug\NC_SplashScreen.csproj.GenerateResource.Cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\obj\Debug\NC_SplashScreen.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\NC_SplashScreen\obj\Debug\NC_SplashScreen.pdb

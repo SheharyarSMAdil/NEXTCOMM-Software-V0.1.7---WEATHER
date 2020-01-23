@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="arduino2560.APN" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hOQgACAACKAAkBIAAAKFAARCoAAIIAAAEKAAIAhBAAA=</HashCode>
+      <FileName>APN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.BackUpData" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIwEAAcyAKCo0lAAAKKiCCCiAACOJAgAEuACoIhABAA=</HashCode>
+      <FileName>BackUpData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.Connect" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAYfCAKAhQLAAAAKAACQCACAQIAAAAuASAAgABhA=</HashCode>
+      <FileName>Connect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.ErrMessage" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAABAAAAiAAAACBAAAIIAAAAAAAAAAAAA=</HashCode>
+      <FileName>ErrMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.Form1" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BpXAcQcAgCSAAB4IzCDFJQCiICECN0gmdGSIIaBEACA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.Hour_Min" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACEAABAAAACAAAACAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hour_Min.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.MB_message" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAABAAAACAAAACDAAAIIAAAAAAAIAAAAA=</HashCode>
+      <FileName>MB_message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.Program" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.Progressbar1" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAQACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Progressbar1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.Scan" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAQAACAAABIABAKAAAACBAACIGBAIAAAAAhAAAA=</HashCode>
+      <FileName>Scan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.SerialPortCommunicator" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SerialPortCommunicator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.Setup" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAgAACAQADMCBACRAAAqiAAAIACCACQABJlACAA=</HashCode>
+      <FileName>Setup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.SplashScreen" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>SplashScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.SystemInfo" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ogQAAAAAACBAABAAAAGAAAACAAAAIQAAAWAAACgAQAA=</HashCode>
+      <FileName>SystemInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.TimeControl" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TimeControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.trial_ss" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAIAAAAAAAABAAAA=</HashCode>
+      <FileName>trial_ss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkUQAAABAAAAQAAAggAJGAAARQCEAgIATIQCAgIBAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="arduino2560.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

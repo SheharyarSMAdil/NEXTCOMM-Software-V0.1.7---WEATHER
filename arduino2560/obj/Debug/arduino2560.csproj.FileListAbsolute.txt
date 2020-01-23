@@ -1,0 +1,202 @@
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\arduino2560.exe.config
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\arduino2560.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\arduino2560.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\ExcelDataReader.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\LiveCharts.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\MaterialSkin.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\Zeroit.Framework.LollipopControls.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\ExcelDataReader.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\ExcelDataReader.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\LiveCharts.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\LiveCharts.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.csprojResolveAssemblyReference.cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.Analysis.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.APN.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.BackUpData.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.Connect.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.Form1.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.Hour_Min.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.MB_message.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.Progressbar1.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.Properties.Resources.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.Scan.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.Setup.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.Splash.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.SystemInfo.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.TimeControl.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6\arduino2560\obj\Debug\arduino2560.csproj.GenerateResource.Cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\arduino2560.exe.config
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\arduino2560.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\arduino2560.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\ExcelDataReader.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\MaterialSkin.dll
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\NC_SplashScreen.exe
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\NC_SplashScreen.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\ExcelDataReader.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\ExcelDataReader.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.csprojResolveAssemblyReference.cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Analysis.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.APN.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.BackUpData.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Connect.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Form1.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Hour_Min.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.MB_message.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Progressbar1.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Properties.Resources.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Scan.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Setup.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Splash.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.SystemInfo.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.TimeControl.resources
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.csproj.GenerateResource.Cache
+C:\Users\Sheharyar\Documents\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\Zeroit.Framework.Progress.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\arduino2560.exe.config
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\arduino2560.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\arduino2560.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\ExcelDataReader.DataSet.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\ExcelDataReader.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.WinForms.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.Wpf.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\MaterialSkin.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\NC_SplashScreen.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\Zeroit.Framework.Progress.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\NC_SplashScreen.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\ExcelDataReader.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\ExcelDataReader.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\ExcelDataReader.DataSet.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.WinForms.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.WinForms.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.Wpf.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\bin\Debug\LiveCharts.Wpf.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.csprojResolveAssemblyReference.cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Analysis.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.APN.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.BackUpData.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Connect.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Form1.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Hour_Min.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.MB_message.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Progressbar1.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Properties.Resources.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Scan.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Setup.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.Splash.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.SystemInfo.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.TimeControl.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - WMS\arduino2560\obj\Debug\arduino2560.csproj.GenerateResource.Cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\arduino2560.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\MaterialSkin.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\arduino2560.exe.config
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\ExcelDataReader.DataSet.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\ExcelDataReader.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\LiveCharts.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\LiveCharts.WinForms.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\LiveCharts.Wpf.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\NC_SplashScreen.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\Zeroit.Framework.Progress.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\NC_SplashScreen.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\ExcelDataReader.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\ExcelDataReader.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\ExcelDataReader.DataSet.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\LiveCharts.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\LiveCharts.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\LiveCharts.WinForms.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\LiveCharts.WinForms.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\LiveCharts.Wpf.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\LiveCharts.Wpf.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.csprojResolveAssemblyReference.cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.Analysis.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.APN.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.BackUpData.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.Connect.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.Form1.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.Hour_Min.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.MB_message.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.Progressbar1.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.Properties.Resources.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.Scan.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.Setup.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.Splash.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.SystemInfo.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.TimeControl.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.csproj.GenerateResource.Cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\bin\Debug\arduino2560.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - IAQ\arduino2560\obj\Debug\arduino2560.wait_window.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\arduino2560.exe.config
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\arduino2560.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\arduino2560.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\ExcelDataReader.DataSet.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\ExcelDataReader.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\LiveCharts.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\LiveCharts.WinForms.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\LiveCharts.Wpf.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\MaterialSkin.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\Zeroit.Framework.Progress.dll
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\ExcelDataReader.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\ExcelDataReader.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\ExcelDataReader.DataSet.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\LiveCharts.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\LiveCharts.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\LiveCharts.WinForms.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\LiveCharts.WinForms.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\LiveCharts.Wpf.pdb
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\LiveCharts.Wpf.xml
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.csprojResolveAssemblyReference.cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.Analysis.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.APN.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.BackUpData.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.Connect.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.Form1.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.Hour_Min.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.MB_message.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.Progressbar1.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.Properties.Resources.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.Scan.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.Setup.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.Splash.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.SystemInfo.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.TimeControl.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.wait_window.resources
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\obj\Debug\arduino2560.csproj.GenerateResource.Cache
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\NC_SplashScreen.exe
+E:\WORK\Visual Studio 2012\Projects\NEXT-COMM\(Software) V0.1.6 - OMAN\arduino2560\bin\Debug\NC_SplashScreen.pdb
